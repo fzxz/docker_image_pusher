@@ -13,6 +13,8 @@
 #prom/node-exporter:v1.7.0
 
 # elk
-docker.elastic.co/elasticsearch/elasticsearch:9.0.1
-docker.elastic.co/logstash/logstash:9.0.1
-docker.elastic.co/kibana/kibana:9.0.1
+#docker.elastic.co/elasticsearch/elasticsearch:9.0.1
+#docker.elastic.co/logstash/logstash:9.0.1
+#docker.elastic.co/kibana/kibana:9.0.1
+
+hiromuhota/webspoon:latest
