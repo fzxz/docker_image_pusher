@@ -17,4 +17,7 @@
 #docker.elastic.co/logstash/logstash:9.0.1
 #docker.elastic.co/kibana/kibana:9.0.1
 
-hiromuhota/webspoon:latest
+# hiromuhota/webspoon:latest
+
+ollama/ollama:latest 
+ghcr.io/open-webui/open-webui:main
