@@ -19,5 +19,6 @@
 
 # hiromuhota/webspoon:latest
 
-ollama/ollama:latest 
-ghcr.io/open-webui/open-webui:main
+# ollama/ollama:latest 
+# ghcr.io/open-webui/open-webui:main
+rustdesk/rustdesk-server:latest
